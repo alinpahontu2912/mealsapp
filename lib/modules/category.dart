@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class Category {
@@ -8,5 +7,4 @@ class Category {
 
   const Category(
       {@required this.id, @required this.title, this.color = Colors.orange});
-  //ceva
 }
